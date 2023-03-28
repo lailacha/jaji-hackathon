@@ -1,0 +1,38 @@
+{
+	"id": "dd0d96d5-d910-4961-8cfd-31e14e7fa591",
+	"title": "Mon super quizz",
+	"questions": [
+		{
+			"id": "6c7e653c-6947-4cbf-8da4-b1b90bef832a",
+			"title": "Question 1",
+			"question": "Quelle-est la couleur du cheval blanc d'Elyas ?",
+			"choices": ["Blanc", "Jaune", "Noir", "Bleu"],
+			"answer": "Blanc",
+			"hasMultipleChoices": false
+		},
+		{
+			"id": "23e81620-d185-4cce-9567-b6852a42efe6",
+			"title": "Question 2",
+			"question": "Quelle-est la couleur du cheval jaune d'Elyas ?",
+			"choices": ["Blanc", "Jaune", "Noir", "Bleu"],
+			"answer": "Jaune",
+			"hasMultipleChoices": false
+		},
+		{
+			"id": "381bb643-04f6-4035-b37e-153ab1417bbd",
+			"title": "Question 3",
+			"question": "Quelle-est la couleur du cheval noir d'Elyas ?",
+			"choices": ["Blanc", "Jaune", "Noir", "Bleu"],
+			"answer": "Noir",
+			"hasMultipleChoices": false
+		},
+		{
+			"id": "49d81d29-033a-4f41-8d7f-3189ab475f47",
+			"title": "Question 4",
+			"question": "Quelle-est la couleur du cheval bleu d'Elyas ?",
+			"choices": ["Blanc", "Jaune", "Noir", "Bleu"],
+			"answer": "Bleu",
+			"hasMultipleChoices": false
+		}
+	]
+}
